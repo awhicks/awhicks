@@ -2,9 +2,9 @@
 
 ## 📄 Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=awhicks&theme=github)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=awhicks&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awhicks&layout=compact&theme=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awhicks&layout=compact&count_private=true)
 
 
 <!--
