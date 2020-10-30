@@ -1,5 +1,12 @@
 ### Check back soon for updates
 
+## 📄 Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=awhicks&theme=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awhicks&layout=compact&theme=github)
+
+
 <!--
 **awhicks/awhicks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
