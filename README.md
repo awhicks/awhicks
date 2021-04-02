@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=awhicks&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awhicks)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=awhicks)](https://github.com/ryo-ma/github-profile-trophy)
